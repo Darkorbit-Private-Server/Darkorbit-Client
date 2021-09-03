@@ -1,0 +1,22 @@
+directories:
+  output: dist
+  buildResources: assets
+appId: com.DarkOrbitClient.Kaiserdj
+productName: DarkOrbit Client
+extraResources:
+  - filter:
+      - ./flash/**
+target: NSIS
+mac:
+  category: public.app-category.games
+  target: dmg
+linux:
+  target:
+    - AppImage
+  category: Game
+publish:
+  - provider: github
+    releaseType: release
+    owner: kaiserdj
+    repo: Darkorbit-client
+electronVersion: 11.4.9
