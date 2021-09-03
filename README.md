@@ -1,12 +1,8 @@
-<h1 align="center" text-align="center">Darkorbit Client</h1>
-<p align="center">
-  <a href="http://forthebadge.com/" target="_blank">
-    <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
-  </a>
+<h1 align="center" text-align="center">Darkorbit Client
   <a href="https://discord.gg/vHqAaxS7xF" target="_blank">
     <img src="https://img.shields.io/discord/819695791072608296.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" height="35">
   </a>
-</p>
+</h1>
 
 Open source client for cross-platform Darkorbit (Windows, Mac and Linux).
 
