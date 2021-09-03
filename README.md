@@ -1,7 +1,4 @@
-<h1 align="center">DarkOrbit Client<a href="https://github.com/Darkorbit-Private-Server/Darkorbit-Client/releases/latest">
-    <img src="https://www.codefactor.io/repository/github/kaiserdj/darkorbit-client/badge" alt="CodeFactor" />
-  </a></h1> 
-
+<h1 align="center" text-align="center">Darkorbit Client</h1>
 <p align="center">
   <a href="http://forthebadge.com/" target="_blank">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
